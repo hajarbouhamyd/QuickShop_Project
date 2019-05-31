@@ -1,0 +1,4 @@
+#Wed May 29 18:47:21 WET 2019
+base.0=D\:\\QuickShop-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
